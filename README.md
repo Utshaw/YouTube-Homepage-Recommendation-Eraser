@@ -11,7 +11,7 @@ A simple browser extension/add-on for removing homepage recommendation.
 - Enable developer mode
 - Click on "Load unpacked" button located on the upper left side
 - Select this repo folder
-### Firefox browser - Install from [Firefox browser add-ons](https://addons.mozilla.org/en-US/firefox/addon/facebook-newsfeed-eraser/)
+### Firefox browser - Install from [Firefox browser add-ons](<add_on_link_here_when_approved>)
 #### Troubleshooting (Firefox browser)
 **Add-on “appears to be corrupt”** <br />
 - Go to [about:config](about:config)
