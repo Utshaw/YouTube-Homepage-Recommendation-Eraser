@@ -1,10 +1,10 @@
 {
 
     "manifest_version": 2,
-    "name": "YouTube-Recommendation-Eraser",
+    "name": "YouTube-Homepage-Recommendation-Eraser",
     "version": "1.0",
   
-    "description": "Erase YouTube recommendation",
+    "description": "Erase YouTube recommendation from the homepage",
   
     "icons": {
       "48": "icons/icon.svg",
