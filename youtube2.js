@@ -1,1 +1,0 @@
-document.getElementById("secondary").style.display = "none"; 

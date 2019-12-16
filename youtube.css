@@ -5,3 +5,12 @@
 /* ytd-rich-item-renderer {
     display: none;
 } */
+
+/* #primary {
+    display: none;
+} */
+
+
+.style-scope.ytd-rich-grid-renderer {
+    display: none !important;
+}
