@@ -1,10 +1,8 @@
-# Facebook-Newsfeed-Eraser ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-A simple browser extension/add-on for removing newsfeed contents. 
+# YouTube-Homepage-Recommendation-Eraser ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
+A simple browser extension/add-on for removing homepage recommendation. 
 ## Features
-- Clean your newsfeed
-- Remove all group recommendation from homepage and group
-- Remove friend request section from homepage
-- Remove recent photos section from groups
+- Clean your YouTube homepage from all recommendation videos
+
 
 ## Installation
 ### Chrome/Chromium browser 
