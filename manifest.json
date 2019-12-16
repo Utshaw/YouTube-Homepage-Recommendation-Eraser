@@ -1,0 +1,55 @@
+{
+
+    "manifest_version": 2,
+    "name": "YouTube-Recommendation-Eraser",
+    "version": "1.0",
+  
+    "description": "Erase YouTube recommendation",
+  
+    "icons": {
+      "48": "icons/icon.svg",
+      "96": "icons/icon.svg"
+    },
+      "content_scripts": [
+        {
+            "matches": [
+                "http://www.youtube.com/",
+                "https://www.youtube.com/"
+            ],
+            "js": [
+                "youtube.js"
+            ],
+            "css": [
+                "youtube.css"
+            ],
+            "run_at": "document_start"
+        },
+        {
+            "matches": [
+                "http://www.youtube.com/",
+                "https://www.youtube.com/"
+            ],
+            "js": [
+                "youtube.js"
+            ],
+            "css": [
+                "youtube.css"
+            ],
+            "run_at": "document_idle"
+        },
+        {
+            "matches": [
+                "http://www.youtube.com/",
+                "https://www.youtube.com/"
+            ],
+            "js": [
+                "youtube.js"
+            ],
+            "css": [
+                "youtube.css"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+  
+  }
